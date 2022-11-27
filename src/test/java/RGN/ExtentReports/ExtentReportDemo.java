@@ -40,5 +40,11 @@ public class ExtentReportDemo {
 		test.fail("Result do not match");
 		extent.flush();
 		System.out.println("out");
+		System.out.println("out");
+		System.out.println("out");
+		System.out.println("out");
+		System.out.println("out");
+		System.out.println("out");
+		System.out.println("out");
 	}
 }
